@@ -21,4 +21,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href="www.linkedin.com/in/gabriel-henrique-da-costa-tavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[Snake animation) (https://github.com/GabrielHCT/GabrielHCT/blob/output/github-contribution-grid-snake.svg)
+![Snake animation) (https://github.com/GabrielHCT/GabrielHCT/blob/output/github-contribution-grid-snake.svg)
