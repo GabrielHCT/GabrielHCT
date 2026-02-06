@@ -57,7 +57,8 @@ I enjoy developing clean and scalable solutions, collaborating in team environme
 
 ### 📊 GitHub Stats
 
-![GabrielHCT GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHCT&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielHCT&show_icons=true&theme=default&hide_border=true)
+
 
 ---
 
@@ -69,3 +70,4 @@ I enjoy developing clean and scalable solutions, collaborating in team environme
   <img alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/GabrielHCT/GabrielHCT/output/github-contribution-grid-snake.svg">
 </picture>
+
