@@ -1,4 +1,4 @@
-### Hi there! 👋 I’m Gabriel Tavares  
+### Hi there! I’m Gabriel Henrique  
 
 I’m a **Computer Technician graduate from CEFET-MG** and a **Full Stack Developer** passionate about technology, software development, and continuous learning.  
 
@@ -30,7 +30,11 @@ I enjoy developing clean and scalable solutions, collaborating in team environme
   <a href="www.linkedin.com/in/gabriel-henrique-da-costa-tavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHCT)](https://github.com/GabrielHCT/github-readme-stats)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielHCT&theme=monokai
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielHCT&theme=monokai
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}
+http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset}
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielHCT/GabrielHCT/output/github-contribution-grid-snake-dark.svg">
