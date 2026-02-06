@@ -57,8 +57,9 @@ I enjoy developing clean and scalable solutions, collaborating in team environme
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielHCT&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHCT&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielHCT&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHCT&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=GabrielHCT&theme=tokyonight)
 
 ---
 
