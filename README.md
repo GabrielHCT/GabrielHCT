@@ -66,6 +66,14 @@ I enjoy developing clean and scalable solutions, collaborating in team environme
 
 <div align="center">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielHCT&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielHCT&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielHCT&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielHCT&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielHCT&theme=tokyonight&utcOffset=-3)
+
 
 </div>
 
