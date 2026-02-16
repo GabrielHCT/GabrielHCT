@@ -2,6 +2,7 @@
   <img src="./banner.jpg" alt="Gabriel Henrique - Banner" width="100%">
 </div>
 
+
 ---
 
 ### Hi there! 👋 I’m Gabriel Henrique  
